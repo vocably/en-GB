@@ -1,0 +1,4 @@
+arresto
+detención
+parada
+interrupción

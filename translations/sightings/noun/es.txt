@@ -1,0 +1,4 @@
+avistamientos
+observaciones
+vistas
+detecciones

@@ -1,0 +1,5 @@
+poste
+montante
+puntal
+vertical
+parante

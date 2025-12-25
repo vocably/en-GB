@@ -1,0 +1,4 @@
+álbumes
+discos
+colecciones
+libros

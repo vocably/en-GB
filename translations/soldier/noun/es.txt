@@ -1,0 +1,4 @@
+soldado
+militar
+hormiga soldado
+termita soldado

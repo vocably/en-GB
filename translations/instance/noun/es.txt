@@ -1,0 +1,4 @@
+ejemplo
+caso
+instancia
+ocurrencia

@@ -1,0 +1,5 @@
+Boden
+Land
+Grund
+Meeresgrund
+Kaffeesatz

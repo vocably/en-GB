@@ -1,0 +1,8 @@
+delito
+comisión
+acto
+ingreso
+internamiento
+compromiso
+promesa
+envío

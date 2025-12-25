@@ -1,0 +1,4 @@
+cercano
+próximo
+adyacente
+vecino

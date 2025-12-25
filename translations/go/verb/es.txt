@@ -1,0 +1,5 @@
+ir
+salir
+funcionar
+marcharse
+resultar

@@ -1,0 +1,5 @@
+der Teller
+die Platte
+das Blech
+die Folie
+die Scheibe
