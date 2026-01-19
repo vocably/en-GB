@@ -1,0 +1,8 @@
+call out
+summon
+dispatch
+challenge
+criticize
+yell
+shout
+holler

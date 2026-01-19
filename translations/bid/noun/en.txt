@@ -1,0 +1,6 @@
+bid
+offer
+attempt
+try
+proposal
+tender

@@ -1,0 +1,9 @@
+ramp
+slope
+grade
+hill
+tendency
+inclination
+preference
+predilection
+disposition

@@ -1,0 +1,5 @@
+tell
+say
+inform
+order
+distinguish

@@ -1,0 +1,4 @@
+pedestrian
+walker
+foot traveler
+person on foot

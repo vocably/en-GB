@@ -1,0 +1,5 @@
+occurrence
+event
+incident
+happening
+instance

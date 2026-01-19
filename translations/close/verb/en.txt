@@ -1,0 +1,5 @@
+close
+shut
+end
+finish
+terminate

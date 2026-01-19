@@ -1,0 +1,4 @@
+nicho
+hueco
+segmento
+función

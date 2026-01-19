@@ -1,0 +1,7 @@
+sponsor
+supporter
+backer
+client
+customer
+regular
+advowee

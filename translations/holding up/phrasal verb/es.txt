@@ -1,0 +1,4 @@
+retrasar
+detener
+sostener
+atracar

@@ -1,0 +1,7 @@
+machine
+engine
+device
+system
+organization
+automaton
+robot

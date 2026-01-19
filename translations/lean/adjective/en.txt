@@ -1,0 +1,9 @@
+thin
+skinny
+meager
+efficient
+trim
+sparse
+frugal
+scant
+bare-bones

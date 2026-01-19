@@ -1,0 +1,4 @@
+ruin
+damage
+go bad
+rot

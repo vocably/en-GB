@@ -1,0 +1,5 @@
+toast
+tribute
+celebrity
+honoree
+luminary

@@ -1,0 +1,4 @@
+fielder
+outfielder
+infielder
+baseman

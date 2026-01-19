@@ -1,0 +1,5 @@
+ambassador
+envoy
+representative
+spokesperson
+delegate

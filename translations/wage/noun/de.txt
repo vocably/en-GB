@@ -1,0 +1,4 @@
+Lohn
+Arbeitslohn
+Wochenlohn
+Tageslohn

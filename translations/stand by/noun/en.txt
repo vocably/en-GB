@@ -1,0 +1,10 @@
+standby
+reserve
+backup
+alternate
+substitute
+fill-in
+relief
+replacement
+standby passenger
+wait-lister

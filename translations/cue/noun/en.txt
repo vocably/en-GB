@@ -1,0 +1,8 @@
+cue
+pool cue
+hint
+signal
+prompt
+line
+clue
+reminder

@@ -1,0 +1,3 @@
+boczny
+poprzeczny
+równorzędny

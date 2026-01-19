@@ -1,0 +1,3 @@
+spectrum
+range
+scale

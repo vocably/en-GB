@@ -1,0 +1,5 @@
+throw
+flip
+stir
+shake
+jiggle

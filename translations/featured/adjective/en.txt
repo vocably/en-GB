@@ -1,0 +1,5 @@
+featured
+prominent
+special
+highlighted
+advertised

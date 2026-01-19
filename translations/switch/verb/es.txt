@@ -1,0 +1,4 @@
+cambiar
+encender
+apagar
+intercambiar

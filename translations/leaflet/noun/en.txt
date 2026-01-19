@@ -1,0 +1,5 @@
+flyer
+pamphlet
+brochure
+handbill
+leaflet

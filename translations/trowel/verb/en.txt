@@ -1,0 +1,6 @@
+trowel
+apply with a trowel
+spread with a trowel
+smooth with a trowel
+dig with a trowel
+lift with a trowel

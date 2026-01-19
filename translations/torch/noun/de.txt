@@ -1,0 +1,3 @@
+die Taschenlampe
+die Fackel
+der Brenner

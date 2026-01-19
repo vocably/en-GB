@@ -1,0 +1,7 @@
+prestige
+reputation
+standing
+status
+clout
+prominence
+eminence

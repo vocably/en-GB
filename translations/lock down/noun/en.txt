@@ -1,0 +1,4 @@
+lockdown
+shelter-in-place
+containment
+quarantine

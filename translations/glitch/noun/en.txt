@@ -1,0 +1,5 @@
+bug
+malfunction
+hiccup
+flaw
+snag

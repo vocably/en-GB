@@ -1,0 +1,4 @@
+Gehalt
+Lohn
+Vergütung
+Besoldung

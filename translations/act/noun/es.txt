@@ -1,0 +1,5 @@
+acto
+ley
+decreto
+escena
+número

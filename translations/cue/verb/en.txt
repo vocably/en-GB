@@ -1,0 +1,7 @@
+signal
+prompt
+hit
+strike
+line up
+ready
+set up

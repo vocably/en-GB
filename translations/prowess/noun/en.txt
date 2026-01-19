@@ -1,0 +1,6 @@
+prowess
+expertise
+skill
+bravery
+valor
+gallantry

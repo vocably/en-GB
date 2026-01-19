@@ -1,0 +1,5 @@
+crashed
+conked out
+passed out
+flaked out
+gatecrashed

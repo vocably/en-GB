@@ -1,0 +1,5 @@
+excavator
+digger
+backhoe
+shovel
+soldier

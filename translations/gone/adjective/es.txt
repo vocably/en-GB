@@ -1,0 +1,4 @@
+ido
+agotado
+muerto
+pasado

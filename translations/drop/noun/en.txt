@@ -1,0 +1,7 @@
+drop
+candy
+fall
+decline
+descent
+delivery
+drop-off

@@ -1,0 +1,10 @@
+say
+tell
+speak
+state
+express
+articulate
+pronounce
+recite
+indicate
+show

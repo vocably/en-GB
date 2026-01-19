@@ -1,0 +1,4 @@
+die Lampe
+die Leuchte
+die Öllampe
+die Gaslampe

@@ -1,0 +1,5 @@
+fold
+wrap
+fail
+go out of business
+withdraw

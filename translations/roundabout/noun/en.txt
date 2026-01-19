@@ -1,0 +1,5 @@
+traffic circle
+rotary
+roundabout
+merry-go-round
+carousel

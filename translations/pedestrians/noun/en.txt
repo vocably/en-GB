@@ -1,0 +1,4 @@
+pedestrians
+walkers
+foot traffic
+people on foot

@@ -1,0 +1,5 @@
+foot
+base
+bottom
+paw
+trotter

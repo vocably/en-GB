@@ -1,0 +1,5 @@
+to hit
+to move up
+to move down
+to bruise
+to knock

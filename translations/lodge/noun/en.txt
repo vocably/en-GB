@@ -1,0 +1,4 @@
+gatehouse
+cabin
+lodge
+den

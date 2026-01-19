@@ -1,0 +1,4 @@
+ido
+marchado
+pasado
+agotado

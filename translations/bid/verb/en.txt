@@ -1,0 +1,5 @@
+bid
+offer
+make a bid
+try
+attempt

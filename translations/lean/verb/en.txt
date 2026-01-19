@@ -1,0 +1,5 @@
+lean
+tilt
+rest
+rely
+incline

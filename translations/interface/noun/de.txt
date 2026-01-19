@@ -1,0 +1,3 @@
+die Schnittstelle
+die Benutzeroberfläche
+die Oberfläche

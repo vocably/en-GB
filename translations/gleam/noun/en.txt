@@ -1,0 +1,10 @@
+gleam
+glow
+flash
+glimmer
+sparkle
+sheen
+luster
+twinkle
+shimmer
+ray
