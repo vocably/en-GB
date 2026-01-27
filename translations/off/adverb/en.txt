@@ -1,0 +1,6 @@
+away
+off
+out
+gone
+finished
+done

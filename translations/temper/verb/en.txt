@@ -1,0 +1,3 @@
+harden
+moderate
+tune

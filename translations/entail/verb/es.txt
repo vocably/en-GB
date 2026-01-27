@@ -1,0 +1,4 @@
+implicar
+conllevar
+vincular
+heredar

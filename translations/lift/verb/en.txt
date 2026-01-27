@@ -1,0 +1,4 @@
+lift
+hoist
+remove
+steal
