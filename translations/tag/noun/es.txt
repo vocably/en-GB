@@ -1,0 +1,4 @@
+etiqueta
+marca
+tocado
+perfil

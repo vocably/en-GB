@@ -1,0 +1,5 @@
+dob
+hajít
+vet
+eldob
+kivet

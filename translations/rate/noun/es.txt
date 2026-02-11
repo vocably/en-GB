@@ -1,0 +1,4 @@
+tasa
+ritmo
+precio
+impuesto

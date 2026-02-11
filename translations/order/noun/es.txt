@@ -1,0 +1,6 @@
+orden
+pedido
+mandato
+disposición
+clase
+categoría

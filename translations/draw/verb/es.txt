@@ -1,0 +1,4 @@
+dibujar
+traer
+sacar
+empatar

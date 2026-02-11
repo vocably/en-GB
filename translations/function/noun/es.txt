@@ -1,0 +1,4 @@
+función
+cometido
+acto
+tarea

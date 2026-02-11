@@ -1,0 +1,4 @@
+pila
+montón
+chimenea
+estantería

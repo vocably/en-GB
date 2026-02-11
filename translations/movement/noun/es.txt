@@ -1,0 +1,5 @@
+movimiento
+marcha
+corriente
+evacuación
+defecación

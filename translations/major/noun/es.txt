@@ -1,0 +1,4 @@
+comandante
+especialidad
+mayor de edad
+torneo importante

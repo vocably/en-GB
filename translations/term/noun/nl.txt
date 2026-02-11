@@ -1,0 +1,4 @@
+term
+periode
+voorwaarde
+kwartaal

@@ -1,0 +1,4 @@
+refrenar
+contener
+detener
+retener

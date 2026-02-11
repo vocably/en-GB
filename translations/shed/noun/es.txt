@@ -1,0 +1,3 @@
+cobertizo
+caseta
+nave

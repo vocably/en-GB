@@ -1,0 +1,5 @@
+registro
+lista
+libro
+rango
+estilo

@@ -1,0 +1,4 @@
+anillo
+aro
+llamada
+red

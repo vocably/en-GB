@@ -1,0 +1,6 @@
+campo
+terreno
+tono
+brea
+grado
+pendiente

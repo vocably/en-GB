@@ -1,0 +1,5 @@
+ligero
+claro
+débil
+leve
+suave

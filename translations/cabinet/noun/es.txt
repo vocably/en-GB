@@ -1,0 +1,3 @@
+armario
+vitrina
+gabinete

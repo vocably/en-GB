@@ -1,0 +1,4 @@
+manera
+camino
+dirección
+distancia

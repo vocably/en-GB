@@ -1,0 +1,5 @@
+campanero
+impostor
+doble
+jugador estrella
+anillo

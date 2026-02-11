@@ -1,0 +1,3 @@
+legado
+herencia
+sistema heredado

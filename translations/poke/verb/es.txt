@@ -1,0 +1,4 @@
+empujar
+meter
+sobresalir
+asomar

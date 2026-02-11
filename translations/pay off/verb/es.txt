@@ -1,0 +1,4 @@
+r entable
+s aldar
+s obornar
+d espedir

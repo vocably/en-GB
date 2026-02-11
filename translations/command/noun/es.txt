@@ -1,0 +1,4 @@
+orden
+mando
+dominio
+instrucción

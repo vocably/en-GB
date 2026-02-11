@@ -1,0 +1,4 @@
+doblar
+inclinar
+curvar
+torcer

@@ -1,0 +1,4 @@
+bucle
+lazo
+circuito
+espira

@@ -1,0 +1,3 @@
+formar un lazo
+seguir un camino circular
+repetir en bucle

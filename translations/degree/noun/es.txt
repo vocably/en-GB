@@ -1,0 +1,4 @@
+grado
+título
+nivel
+magnitud

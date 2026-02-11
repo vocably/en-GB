@@ -1,0 +1,4 @@
+arrastrar
+tirar
+llevar
+mover

@@ -1,0 +1,4 @@
+miejsce
+pozycja
+dom
+siedziba
