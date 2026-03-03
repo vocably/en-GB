@@ -1,0 +1,4 @@
+cortar
+recortar
+reducir
+suprimir

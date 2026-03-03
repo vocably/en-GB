@@ -1,0 +1,4 @@
+saltar
+rebotar
+limitar
+obligado

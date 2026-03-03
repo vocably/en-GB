@@ -1,0 +1,4 @@
+afsnijden
+afsluiten
+onderbreken
+isoleren

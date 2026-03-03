@@ -1,0 +1,5 @@
+cifra
+número
+figura
+forma
+persona

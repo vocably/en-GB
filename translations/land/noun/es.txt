@@ -1,0 +1,4 @@
+tierra
+terreno
+país
+finca

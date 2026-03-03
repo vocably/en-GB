@@ -1,0 +1,3 @@
+artículo
+elemento
+pareja

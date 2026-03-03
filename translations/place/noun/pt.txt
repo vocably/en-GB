@@ -1,0 +1,4 @@
+lugar
+local
+posição
+casa
