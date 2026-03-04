@@ -1,3 +1,1 @@
-consider
-think about
-take into account
+["consider","think about","take into account"]

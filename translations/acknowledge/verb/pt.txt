@@ -1,0 +1,1 @@
+["reconhecer","confirmar","cumprimentar"]

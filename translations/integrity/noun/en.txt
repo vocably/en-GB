@@ -1,3 +1,1 @@
-integrity
-unity
-structural soundness
+["integrity","unity","soundness"]
