@@ -1,0 +1,5 @@
+rejestr
+księga
+zakres
+styl
+przepustnica
