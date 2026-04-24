@@ -1,1 +1,3 @@
-["karmilt","umbes","ligikaudu"]
+karmilt
+umbes
+ligikaudu

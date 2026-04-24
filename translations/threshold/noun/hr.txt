@@ -1,1 +1,3 @@
-["prag","prag tolerancije","granica"]
+prag
+prag tolerancije
+granica

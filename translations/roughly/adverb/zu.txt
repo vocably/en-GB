@@ -1,1 +1,3 @@
-["ngesihluku","cishe","ngokungaphelele"]
+ngesihluku
+cishe
+ngokungaphelele

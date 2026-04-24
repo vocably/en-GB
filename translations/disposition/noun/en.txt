@@ -1,1 +1,4 @@
-["temperament","arrangement","disposal","deployment"]
+temperament
+arrangement
+disposal
+deployment

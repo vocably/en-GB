@@ -1,1 +1,2 @@
-["coisrig","tiomn"]
+coisrig
+tiomn

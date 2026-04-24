@@ -1,1 +1,2 @@
-["ondorio","atzera"]
+ondorio
+atzera

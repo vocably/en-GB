@@ -1,1 +1,2 @@
-["kwitanga","kwiyegurira"]
+kwitanga
+kwiyegurira

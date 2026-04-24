@@ -1,1 +1,3 @@
-["ruchwei","sawat","ûnfyn"]
+ruchwei
+sawat
+ûnfyn

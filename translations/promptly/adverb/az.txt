@@ -1,1 +1,2 @@
-["dərhal","cəld"]
+dərhal
+cəld

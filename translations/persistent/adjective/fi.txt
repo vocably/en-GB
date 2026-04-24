@@ -1,1 +1,2 @@
-["sisukas","itsepintainen"]
+sisukas
+itsepintainen

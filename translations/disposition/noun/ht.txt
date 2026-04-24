@@ -1,1 +1,4 @@
-["karaktè","aranjman","dispozisyon","plasman"]
+karaktè
+aranjman
+dispozisyon
+plasman

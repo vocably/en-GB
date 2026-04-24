@@ -1,1 +1,2 @@
-["tagajärg","järellainetus"]
+tagajärg
+järellainetus

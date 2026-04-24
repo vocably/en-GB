@@ -1,1 +1,3 @@
-["ittraskura","ma jagħtix kas","jittraskura"]
+ittraskura
+ma jagħtix kas
+jittraskura

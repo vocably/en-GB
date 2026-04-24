@@ -1,1 +1,4 @@
-["anian","trefniant","gallu","lleoliad"]
+anian
+trefniant
+gallu
+lleoliad

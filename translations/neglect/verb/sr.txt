@@ -1,1 +1,3 @@
-["zanemariti","zapostaviti","ne obratiti pažnju"]
+zanemariti
+zapostaviti
+ne obratiti pažnju

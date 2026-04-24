@@ -1,1 +1,3 @@
-["integreco","honesteco","sincereco"]
+integreco
+honesteco
+sincereco

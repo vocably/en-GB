@@ -1,1 +1,3 @@
-["Ubunyangamugayo","Ubukabe","Ubusugire"]
+Ubunyangamugayo
+Ubukabe
+Ubusugire

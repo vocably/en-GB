@@ -1,1 +1,2 @@
-["ncenga","yekisa"]
+ncenga
+yekisa

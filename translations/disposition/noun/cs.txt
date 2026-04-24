@@ -1,1 +1,4 @@
-["povaha","rozpoložení","dispozice","rozmístění"]
+povaha
+rozpoložení
+dispozice
+rozmístění

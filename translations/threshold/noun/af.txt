@@ -1,1 +1,3 @@
-["drempel","drumpel","beginpunt"]
+drempel
+drumpel
+beginpunt

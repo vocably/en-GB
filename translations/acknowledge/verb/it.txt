@@ -1,1 +1,3 @@
-["riconoscere","ammettere","confermare"]
+riconoscere
+ammettere
+confermare

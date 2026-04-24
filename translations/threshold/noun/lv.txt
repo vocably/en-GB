@@ -1,1 +1,3 @@
-["slieksnis","sākotnējais līmenis","robeža"]
+slieksnis
+sākotnējais līmenis
+robeža

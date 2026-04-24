@@ -1,1 +1,2 @@
-["kaudselt","vaikimisi"]
+kaudselt
+vaikimisi

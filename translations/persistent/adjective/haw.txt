@@ -1,1 +1,2 @@
-["hoʻomau","mau"]
+hoʻomau
+mau

@@ -1,1 +1,4 @@
-["isimilo","ukuma","ukulahla","ukuhlela"]
+isimilo
+ukuma
+ukulahla
+ukuhlela

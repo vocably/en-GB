@@ -1,1 +1,3 @@
-["bosaga","başlangyç","kütek"]
+bosaga
+başlangyç
+kütek

@@ -1,1 +1,3 @@
-["försumma","åsidosätta","strunta i"]
+försumma
+åsidosätta
+strunta i

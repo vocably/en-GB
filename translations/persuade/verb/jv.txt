@@ -1,1 +1,2 @@
-["mbujuk","nggoda"]
+mbujuk
+nggoda

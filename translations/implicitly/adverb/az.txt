@@ -1,1 +1,2 @@
-["üstüörtülü şəkildə","şübhəsiz"]
+üstüörtülü şəkildə
+şübhəsiz

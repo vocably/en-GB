@@ -1,1 +1,2 @@
-["a capacità di ricuperà prestu","elasticità"]
+a capacità di ricuperà prestu
+elasticità

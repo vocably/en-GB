@@ -1,1 +1,2 @@
-["gu soilleir","gu cinnteach"]
+gu soilleir
+gu cinnteach

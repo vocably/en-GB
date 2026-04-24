@@ -1,1 +1,2 @@
-["Degdeg","Wakhtigii"]
+Degdeg
+Wakhtigii

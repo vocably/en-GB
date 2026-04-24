@@ -1,1 +1,3 @@
-["roes","ongeveer","basies"]
+roes
+ongeveer
+basies

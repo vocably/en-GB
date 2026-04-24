@@ -1,1 +1,2 @@
-["réttlæta","jafna"]
+réttlæta
+jafna

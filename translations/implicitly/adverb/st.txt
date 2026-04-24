@@ -1,1 +1,2 @@
-["ka ho sa tobang","ka ho hlaka"]
+ka ho sa tobang
+ka ho hlaka

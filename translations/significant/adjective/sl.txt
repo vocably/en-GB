@@ -1,1 +1,3 @@
-["pomemben","znaten","pomenljiv"]
+pomemben
+znaten
+pomenljiv

@@ -1,1 +1,4 @@
-["disposition","arrangement","pouvoir","déploiement"]
+disposition
+arrangement
+pouvoir
+déploiement

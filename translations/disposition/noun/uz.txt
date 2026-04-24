@@ -1,1 +1,4 @@
-["fe'l-atvor","xarakter","joylashuv","joylashtirish"]
+fe'l-atvor
+xarakter
+joylashuv
+joylashtirish

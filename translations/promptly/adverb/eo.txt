@@ -1,1 +1,2 @@
-["tuj","precize"]
+tuj
+precize

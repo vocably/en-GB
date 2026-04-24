@@ -1,1 +1,2 @@
-["abbastanza","à puntu"]
+abbastanza
+à puntu

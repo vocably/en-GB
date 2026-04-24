@@ -1,1 +1,4 @@
-["Sipat","Adat","Watek","Susunan"]
+Sipat
+Adat
+Watek
+Susunan

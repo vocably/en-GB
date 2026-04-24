@@ -1,1 +1,2 @@
-["detèminasyon","rezilyans"]
+detèminasyon
+rezilyans

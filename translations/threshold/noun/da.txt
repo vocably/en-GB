@@ -1,1 +1,3 @@
-["tærskel","begyndelse","grænse"]
+tærskel
+begyndelse
+grænse

@@ -1,1 +1,2 @@
-["nyenengake","ngresepake"]
+nyenengake
+ngresepake

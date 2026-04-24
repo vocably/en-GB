@@ -1,1 +1,3 @@
-["lë pas dore","neglijo","nuk i kushtoj vëmendje"]
+lë pas dore
+neglijo
+nuk i kushtoj vëmendje

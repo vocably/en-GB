@@ -1,1 +1,2 @@
-["caga jiid","diidmo"]
+caga jiid
+diidmo

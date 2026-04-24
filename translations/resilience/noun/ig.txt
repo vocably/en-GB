@@ -1,1 +1,2 @@
-["ntachi","nkwụghachi"]
+ntachi
+nkwụghachi

@@ -1,1 +1,4 @@
-["disposition","sindelag","anlæg","placering"]
+disposition
+sindelag
+anlæg
+placering

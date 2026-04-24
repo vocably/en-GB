@@ -1,1 +1,3 @@
-["atzīt","apliecināt","sasveicināties"]
+atzīt
+apliecināt
+sasveicināties

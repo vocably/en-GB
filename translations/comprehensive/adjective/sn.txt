@@ -1,1 +1,2 @@
-["yakazara","inobata zvose"]
+yakazara
+inobata zvose

@@ -1,1 +1,2 @@
-["kanthi implisit","kanthi boten langsung"]
+kanthi implisit
+kanthi boten langsung

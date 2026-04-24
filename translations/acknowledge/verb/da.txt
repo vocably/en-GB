@@ -1,1 +1,3 @@
-["anerkende","bekræfte","hilse på"]
+anerkende
+bekræfte
+hilse på

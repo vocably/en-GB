@@ -1,1 +1,3 @@
-["boýun almak","tassykla","ykrarnama"]
+boýun almak
+tassykla
+ykrarnama

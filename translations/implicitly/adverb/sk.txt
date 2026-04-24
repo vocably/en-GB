@@ -1,1 +1,2 @@
-["implicitne","bezpodmienečne"]
+implicitne
+bezpodmienečne

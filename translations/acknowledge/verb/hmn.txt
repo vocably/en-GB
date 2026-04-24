@@ -1,1 +1,3 @@
-["lees","lees paub","lees yuav"]
+lees
+lees paub
+lees yuav

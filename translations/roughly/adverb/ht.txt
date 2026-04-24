@@ -1,1 +1,3 @@
-["briskeman","apeprè","grosyèman"]
+briskeman
+apeprè
+grosyèman

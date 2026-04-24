@@ -1,1 +1,3 @@
-["baxımsızlıq etmək","diqqətsizlik etmək","saymamaq"]
+baxımsızlıq etmək
+diqqətsizlik etmək
+saymamaq

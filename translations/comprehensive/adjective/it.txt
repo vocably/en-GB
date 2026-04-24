@@ -1,1 +1,2 @@
-["esauriente","comprensivo"]
+esauriente
+comprensivo

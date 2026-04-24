@@ -1,1 +1,2 @@
-["ypač","pažymėtinai"]
+ypač
+pažymėtinai

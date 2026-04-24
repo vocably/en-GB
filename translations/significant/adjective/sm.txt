@@ -1,1 +1,3 @@
-["taua","mautinoa","tāua"]
+taua
+mautinoa
+tāua

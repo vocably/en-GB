@@ -1,1 +1,3 @@
-["integridad","katapatan","pagkakaisa"]
+integridad
+katapatan
+pagkakaisa

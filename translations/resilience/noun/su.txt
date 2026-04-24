@@ -1,1 +1,2 @@
-["Katahanan","Kalenturan"]
+Katahanan
+Kalenturan

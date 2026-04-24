@@ -1,1 +1,3 @@
-["stairsneach","tòiseach","stairsneach-inntrigidh"]
+stairsneach
+tòiseach
+stairsneach-inntrigidh

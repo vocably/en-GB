@@ -1,1 +1,2 @@
-["exhaustiu","integral"]
+exhaustiu
+integral

@@ -1,1 +1,2 @@
-["ngokukhethekileyo","ingakumbi"]
+ngokukhethekileyo
+ingakumbi

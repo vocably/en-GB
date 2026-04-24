@@ -1,1 +1,2 @@
-["sekvo","repuŝo"]
+sekvo
+repuŝo

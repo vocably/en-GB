@@ -1,1 +1,3 @@
-["tunnustaa","myöntää","kuittaa"]
+tunnustaa
+myöntää
+kuittaa

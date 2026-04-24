@@ -1,1 +1,2 @@
-["hua","whakaopupu"]
+hua
+whakaopupu

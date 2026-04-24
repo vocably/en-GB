@@ -1,1 +1,3 @@
-["reconhecer","confirmar","acusar a receção de"]
+reconhecer
+confirmar
+acusar a receção de

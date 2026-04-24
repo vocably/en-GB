@@ -1,1 +1,2 @@
-["implícitament","cegament"]
+implícitament
+cegament

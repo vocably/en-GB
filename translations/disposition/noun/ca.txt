@@ -1,1 +1,4 @@
-["disposició","caràcter","índole","col·locació"]
+disposició
+caràcter
+índole
+col·locació

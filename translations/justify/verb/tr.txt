@@ -1,1 +1,3 @@
-["haklı çıkarmak","doğrulamak","iki yana yaslamak"]
+haklı çıkarmak
+doğrulamak
+iki yana yaslamak

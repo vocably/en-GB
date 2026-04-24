@@ -1,1 +1,2 @@
-["rettferdiggjøre","justere"]
+rettferdiggjøre
+justere

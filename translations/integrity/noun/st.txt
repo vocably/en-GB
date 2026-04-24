@@ -1,1 +1,3 @@
-["botšepehi","bonatla","tieho"]
+botšepehi
+bonatla
+tieho

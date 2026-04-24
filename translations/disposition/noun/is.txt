@@ -1,1 +1,4 @@
-["skapsmuni","geðslag","ráðstöfun","skipan"]
+skapsmuni
+geðslag
+ráðstöfun
+skipan

@@ -1,1 +1,4 @@
-["xasiyyət","təbiət","yerləşmə","düzülüş"]
+xasiyyət
+təbiət
+yerləşmə
+düzülüş

@@ -1,1 +1,3 @@
-["zvinehasha","rinenge","zvisina kupera"]
+zvinehasha
+rinenge
+zvisina kupera

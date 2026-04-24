@@ -1,1 +1,2 @@
-["persistema","konstanta"]
+persistema
+konstanta

@@ -1,1 +1,2 @@
-["Konsequenz","Réckstouss"]
+Konsequenz
+Réckstouss

@@ -1,1 +1,2 @@
-["komplexný","ucelený"]
+komplexný
+ucelený

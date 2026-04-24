@@ -1,1 +1,4 @@
-["razpolaganje","narava","razporeditev","postavitev"]
+razpolaganje
+narava
+razporeditev
+postavitev

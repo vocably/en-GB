@@ -1,1 +1,2 @@
-["whakahari","ahuareka"]
+whakahari
+ahuareka

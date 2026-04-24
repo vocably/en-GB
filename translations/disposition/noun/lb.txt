@@ -1,1 +1,4 @@
-["Dispositioun","Uerdnung","Opstellung","Stellung"]
+Dispositioun
+Uerdnung
+Opstellung
+Stellung

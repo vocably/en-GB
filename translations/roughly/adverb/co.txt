@@ -1,1 +1,3 @@
-["à l'ingrossu","all'incirca","à pocu pressu"]
+à l'ingrossu
+all'incirca
+à pocu pressu

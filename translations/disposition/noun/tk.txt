@@ -1,1 +1,4 @@
-["häsiýet","meýil","yerleşiş","buýruk"]
+häsiýet
+meýil
+yerleşiş
+buýruk

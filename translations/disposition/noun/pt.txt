@@ -1,1 +1,4 @@
-["disposição","temperamento","índole","arranjo"]
+disposição
+temperamento
+índole
+arranjo

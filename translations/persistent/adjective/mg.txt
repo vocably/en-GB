@@ -1,1 +1,2 @@
-["mahazaka","mitohy"]
+mahazaka
+mitohy

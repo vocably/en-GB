@@ -1,1 +1,2 @@
-["nadelige gevolg","terugslag"]
+nadelige gevolg
+terugslag

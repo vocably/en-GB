@@ -1,1 +1,2 @@
-["txaus siab","lom zem"]
+txaus siab
+lom zem

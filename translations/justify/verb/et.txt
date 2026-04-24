@@ -1,1 +1,2 @@
-["õigustama","joondama"]
+õigustama
+joondama

@@ -1,1 +1,2 @@
-["thibitisha","panga"]
+thibitisha
+panga

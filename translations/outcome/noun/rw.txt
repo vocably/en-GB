@@ -1,1 +1,2 @@
-["ingororano","igisubizo"]
+ingororano
+igisubizo

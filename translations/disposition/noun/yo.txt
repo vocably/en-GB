@@ -1,1 +1,4 @@
-["iwa","isokan","eto","igbaradi"]
+iwa
+isokan
+eto
+igbaradi

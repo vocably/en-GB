@@ -1,1 +1,2 @@
-["konsekwencja","odbicie"]
+konsekwencja
+odbicie

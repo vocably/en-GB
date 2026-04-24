@@ -1,1 +1,3 @@
-["ricunnosce","cunfirmà","salutà"]
+ricunnosce
+cunfirmà
+salutà

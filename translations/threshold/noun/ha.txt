@@ -1,1 +1,3 @@
-["ƙofa","fili","mafari"]
+ƙofa
+fili
+mafari

@@ -1,1 +1,2 @@
-["widmen","sich hingeben"]
+widmen
+sich hingeben

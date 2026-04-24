@@ -1,1 +1,2 @@
-["kawt","attenwata"]
+kawt
+attenwata

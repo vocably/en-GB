@@ -1,1 +1,3 @@
-["groseiramente","aproximadamente","a grandes trazos"]
+groseiramente
+aproximadamente
+a grandes trazos

@@ -1,1 +1,2 @@
-["pasekmė","atatranka"]
+pasekmė
+atatranka

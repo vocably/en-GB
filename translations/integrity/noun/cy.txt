@@ -1,1 +1,3 @@
-["union","undivided","unimpaired"]
+union
+undivided
+unimpaired

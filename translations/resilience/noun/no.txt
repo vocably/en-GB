@@ -1,1 +1,2 @@
-["motstandskraft","spenst"]
+motstandskraft
+spenst

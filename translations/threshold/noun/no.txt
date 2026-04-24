@@ -1,1 +1,3 @@
-["terskel","inngang","grense"]
+terskel
+inngang
+grense

@@ -1,1 +1,2 @@
-["mlčky","implicitně"]
+mlčky
+implicitně

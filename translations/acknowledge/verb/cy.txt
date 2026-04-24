@@ -1,1 +1,3 @@
-["cydnabod","cadarnhau","cyfarch"]
+cydnabod
+cadarnhau
+cyfarch

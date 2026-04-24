@@ -1,1 +1,2 @@
-["ngabenerkeun","ngajajar"]
+ngabenerkeun
+ngajajar

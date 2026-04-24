@@ -1,1 +1,3 @@
-["khomo","pakhomo","chiyambi"]
+khomo
+pakhomo
+chiyambi

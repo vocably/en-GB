@@ -1,1 +1,2 @@
-["tutukly","dowamly"]
+tutukly
+dowamly

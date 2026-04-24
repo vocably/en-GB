@@ -1,1 +1,3 @@
-["prag","granična vrednost","prag draži"]
+prag
+granična vrednost
+prag draži

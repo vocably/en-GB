@@ -1,1 +1,4 @@
-["aard","ynstelling","gesindheid","pleatsing"]
+aard
+ynstelling
+gesindheid
+pleatsing

@@ -1,1 +1,2 @@
-["ako kanya","ako na ako"]
+ako kanya
+ako na ako

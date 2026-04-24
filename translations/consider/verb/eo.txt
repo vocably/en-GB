@@ -1,1 +1,3 @@
-["pripensi","konsideri","enkalkuli"]
+pripensi
+konsideri
+enkalkuli

@@ -1,1 +1,3 @@
-["reconnaître","accuser réception de","saluer"]
+reconnaître
+accuser réception de
+saluer

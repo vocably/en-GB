@@ -1,1 +1,2 @@
-["an-kolaka","tsy misy isalasalana"]
+an-kolaka
+tsy misy isalasalana

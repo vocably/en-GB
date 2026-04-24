@@ -1,1 +1,3 @@
-["makabuluhan","mahalaga","kapansin-pansin"]
+makabuluhan
+mahalaga
+kapansin-pansin

@@ -1,1 +1,2 @@
-["ongagungqiyo","ongapheliyo"]
+ongagungqiyo
+ongapheliyo

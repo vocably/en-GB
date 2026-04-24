@@ -1,1 +1,2 @@
-["pateisinti","išlygiuoti"]
+pateisinti
+išlygiuoti

@@ -1,1 +1,2 @@
-["nutrimente","in particulare"]
+nutrimente
+in particulare

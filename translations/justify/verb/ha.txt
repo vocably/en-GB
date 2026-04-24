@@ -1,1 +1,2 @@
-["tabbatar","daidaita"]
+tabbatar
+daidaita

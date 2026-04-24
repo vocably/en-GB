@@ -1,1 +1,4 @@
-["imiterere","imigirire","ubushobozi","iyegereza"]
+imiterere
+imigirire
+ubushobozi
+iyegereza

@@ -1,1 +1,4 @@
-["perangai","sifat","susunan","penempatan"]
+perangai
+sifat
+susunan
+penempatan

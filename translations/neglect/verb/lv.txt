@@ -1,1 +1,3 @@
-["neaizmirst","nevērība","ignorēt"]
+neaizmirst
+nevērība
+ignorēt

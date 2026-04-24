@@ -1,1 +1,3 @@
-["a neglija","a nu-i păsa","a nu ține cont"]
+a neglija
+a nu-i păsa
+a nu ține cont

@@ -1,1 +1,4 @@
-["tabia","mpangilio","uwezo","kupelekwa"]
+tabia
+mpangilio
+uwezo
+kupelekwa

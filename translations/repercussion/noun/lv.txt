@@ -1,1 +1,2 @@
-["sekas","atgrūšanās"]
+sekas
+atgrūšanās

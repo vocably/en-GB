@@ -1,1 +1,2 @@
-["widmen","sech asetzen"]
+widmen
+sech asetzen

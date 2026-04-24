@@ -1,1 +1,2 @@
-["durnuklilik","çydamlylyk"]
+durnuklilik
+çydamlylyk

@@ -1,1 +1,2 @@
-["berangsur-angsur","perlahan-lahan"]
+berangsur-angsur
+perlahan-lahan

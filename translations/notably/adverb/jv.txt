@@ -1,1 +1,2 @@
-["utamané","mligi"]
+utamané
+mligi

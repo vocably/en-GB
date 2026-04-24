@@ -1,1 +1,2 @@
-["vokany","fihemorana"]
+vokany
+fihemorana

@@ -1,1 +1,2 @@
-["whānui","matawhānui"]
+whānui
+matawhānui

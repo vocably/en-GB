@@ -1,1 +1,2 @@
-["i'uga","taunu'uga"]
+i'uga
+taunu'uga

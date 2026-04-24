@@ -1,1 +1,3 @@
-["neglije","pa okipe","blie"]
+neglije
+pa okipe
+blie

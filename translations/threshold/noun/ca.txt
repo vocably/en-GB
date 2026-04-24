@@ -1,1 +1,3 @@
-["llindar","seuil","començament"]
+llindar
+seuil
+començament

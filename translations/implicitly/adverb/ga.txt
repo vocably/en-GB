@@ -1,1 +1,2 @@
-["go intuigthe","go follas"]
+go intuigthe
+go follas

@@ -1,1 +1,3 @@
-["pāhua","tata","mōhiu"]
+pāhua
+tata
+mōhiu

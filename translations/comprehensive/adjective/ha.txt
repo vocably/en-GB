@@ -1,1 +1,2 @@
-["cikakke","farantai"]
+cikakke
+farantai

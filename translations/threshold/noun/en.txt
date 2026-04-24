@@ -1,1 +1,3 @@
-["threshold","brink","point"]
+threshold
+brink
+point

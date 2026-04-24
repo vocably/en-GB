@@ -1,1 +1,2 @@
-["errezelo","gogorik ez izan"]
+errezelo
+gogorik ez izan

@@ -1,1 +1,3 @@
-["trascurare","negligere","dimenticare"]
+trascurare
+negligere
+dimenticare

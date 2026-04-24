@@ -1,1 +1,3 @@
-["tsis maj","kwv yees li","raws li qhov yooj yim"]
+tsis maj
+kwv yees li
+raws li qhov yooj yim

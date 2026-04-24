@@ -1,1 +1,3 @@
-["aproximadamente","bruscamente","a groso modo"]
+aproximadamente
+bruscamente
+a groso modo

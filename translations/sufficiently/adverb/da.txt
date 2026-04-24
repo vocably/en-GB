@@ -1,1 +1,4 @@
-["tilstr\n\nækkeligt","nok"]
+tilstr
+
+ækkeligt
+nok

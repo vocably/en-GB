@@ -1,1 +1,4 @@
-["toetra","fomba","fandaharana","fandraisana"]
+toetra
+fomba
+fandaharana
+fandraisana

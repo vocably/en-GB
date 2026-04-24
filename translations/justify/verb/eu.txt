@@ -1,1 +1,2 @@
-["justifikatu","lerrokatu"]
+justifikatu
+lerrokatu

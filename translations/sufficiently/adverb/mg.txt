@@ -1,1 +1,2 @@
-["ampy","mahafaka"]
+ampy
+mahafaka

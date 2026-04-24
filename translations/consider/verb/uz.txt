@@ -1,1 +1,3 @@
-["o'ylamoq","hisoblamoq","inobatga olmoq"]
+o'ylamoq
+hisoblamoq
+inobatga olmoq

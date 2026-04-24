@@ -1,1 +1,2 @@
-["kapsamlı","çok yönlü"]
+kapsamlı
+çok yönlü

@@ -1,1 +1,3 @@
-["versuim","afskeep","verwaarloos"]
+versuim
+afskeep
+verwaarloos

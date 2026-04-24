@@ -1,1 +1,3 @@
-["lawang panto","ambang","wates"]
+lawang panto
+ambang
+wates

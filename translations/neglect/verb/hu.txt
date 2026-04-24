@@ -1,1 +1,3 @@
-["elhanyagol","nem törődik","figyelmen kívül hagy"]
+elhanyagol
+nem törődik
+figyelmen kívül hagy

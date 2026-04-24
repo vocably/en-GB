@@ -1,1 +1,2 @@
-["nsogbu","ntigbu"]
+nsogbu
+ntigbu

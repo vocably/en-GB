@@ -1,1 +1,3 @@
-["gróflega","nokkurn veginn","í grófum dráttum"]
+gróflega
+nokkurn veginn
+í grófum dráttum

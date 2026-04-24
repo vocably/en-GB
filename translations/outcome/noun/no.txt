@@ -1,1 +1,2 @@
-["utfall","resultat"]
+utfall
+resultat

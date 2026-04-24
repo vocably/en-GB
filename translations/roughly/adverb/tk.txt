@@ -1,1 +1,3 @@
-["takmynan","töwerek","üstünden-aşa"]
+takmynan
+töwerek
+üstünden-aşa

@@ -1,1 +1,4 @@
-["dispoziție","fire","caracter","aranjament"]
+dispoziție
+fire
+caracter
+aranjament

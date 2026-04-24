@@ -1,1 +1,4 @@
-["isimilo","ukuma","ilungelo","ulungiselelo"]
+isimilo
+ukuma
+ilungelo
+ulungiselelo

@@ -1,1 +1,2 @@
-["eftervirkning","rekyl"]
+eftervirkning
+rekyl

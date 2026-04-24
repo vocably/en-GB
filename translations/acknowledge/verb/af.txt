@@ -1,1 +1,3 @@
-["erken","bevestig","groet"]
+erken
+bevestig
+groet

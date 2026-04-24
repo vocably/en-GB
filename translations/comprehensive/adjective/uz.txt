@@ -1,1 +1,2 @@
-["har tomonlama","kompleks"]
+har tomonlama
+kompleks

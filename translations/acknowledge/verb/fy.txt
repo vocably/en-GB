@@ -1,1 +1,3 @@
-["erkennen","befêstigje","bekenne"]
+erkennen
+befêstigje
+bekenne

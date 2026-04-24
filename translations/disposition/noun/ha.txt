@@ -1,1 +1,4 @@
-["hali","halayya","tsari","shirye-shirye"]
+hali
+halayya
+tsari
+shirye-shirye

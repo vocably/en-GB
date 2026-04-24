@@ -1,1 +1,2 @@
-["endelevu","kaidi"]
+endelevu
+kaidi

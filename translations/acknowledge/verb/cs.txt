@@ -1,1 +1,3 @@
-["uznat","potvrdit","vzit na vedomi"]
+uznat
+potvrdit
+vzit na vedomi

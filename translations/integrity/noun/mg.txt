@@ -1,1 +1,3 @@
-["fahamarinana","tsy fivadihana","maha-tontolo"]
+fahamarinana
+tsy fivadihana
+maha-tontolo

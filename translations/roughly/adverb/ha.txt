@@ -1,1 +1,3 @@
-["da karfi","kusan","ba a gama ba"]
+da karfi
+kusan
+ba a gama ba

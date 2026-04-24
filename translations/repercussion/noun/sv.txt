@@ -1,1 +1,2 @@
-["återverkan","rekyl"]
+återverkan
+rekyl

@@ -1,1 +1,3 @@
-["graff","ongeféier","grob"]
+graff
+ongeféier
+grob

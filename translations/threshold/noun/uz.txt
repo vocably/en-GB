@@ -1,1 +1,3 @@
-["eshik oldi","boshlanish nuqtasi","chegara"]
+eshik oldi
+boshlanish nuqtasi
+chegara

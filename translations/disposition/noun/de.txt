@@ -1,1 +1,4 @@
-["die Gemütsart","die Anordnung","die Verfügung","die Stationierung"]
+die Gemütsart
+die Anordnung
+die Verfügung
+die Stationierung

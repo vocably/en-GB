@@ -1,1 +1,2 @@
-["ulet","tuluy-tinuluy"]
+ulet
+tuluy-tinuluy

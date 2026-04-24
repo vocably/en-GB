@@ -1,1 +1,2 @@
-["cyfiawnhau","unioni"]
+cyfiawnhau
+unioni

@@ -1,1 +1,4 @@
-["uiga","amio","faiga","tuuga"]
+uiga
+amio
+faiga
+tuuga

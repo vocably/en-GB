@@ -1,1 +1,2 @@
-["tikras","pitit pa ti"]
+tikras
+pitit pa ti

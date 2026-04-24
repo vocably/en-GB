@@ -1,1 +1,3 @@
-["bruscament","aproximadament","a grans trets"]
+bruscament
+aproximadament
+a grans trets

@@ -1,1 +1,3 @@
-["ngưỡng cửa","ngưỡng","ngưỡng kích thích"]
+ngưỡng cửa
+ngưỡng
+ngưỡng kích thích

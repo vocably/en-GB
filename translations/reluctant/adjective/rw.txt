@@ -1,1 +1,2 @@
-["udashaka","utabishaka"]
+udashaka
+utabishaka

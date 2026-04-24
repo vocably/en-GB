@@ -1,1 +1,3 @@
-["prontamente","imediatamente","pontualmente"]
+prontamente
+imediatamente
+pontualmente

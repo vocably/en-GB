@@ -1,1 +1,4 @@
-["caratteru","dispusizioni","urganizazioni","piazzamentu"]
+caratteru
+dispusizioni
+urganizazioni
+piazzamentu

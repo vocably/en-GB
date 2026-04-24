@@ -1,1 +1,3 @@
-["desatender","non facer caso de","descoidar"]
+desatender
+non facer caso de
+descoidar

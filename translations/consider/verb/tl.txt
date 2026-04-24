@@ -1,1 +1,3 @@
-["Isipin","Pag-isipan","Alalahanin"]
+Isipin
+Pag-isipan
+Alalahanin

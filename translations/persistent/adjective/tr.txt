@@ -1,1 +1,2 @@
-["inatçı","sürekli"]
+inatçı
+sürekli

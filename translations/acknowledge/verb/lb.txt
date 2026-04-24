@@ -1,1 +1,3 @@
-["unerken","bestätegen","begréissen"]
+unerken
+bestätegen
+begréissen

@@ -1,1 +1,3 @@
-["tröskel","gräns","smärtgräns"]
+tröskel
+gräns
+smärtgräns

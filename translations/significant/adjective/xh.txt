@@ -1,1 +1,3 @@
-["balulekile","cacile","bonakalisa"]
+balulekile
+cacile
+bonakalisa

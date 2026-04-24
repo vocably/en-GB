@@ -1,1 +1,2 @@
-["ampleksa","ĉiuflanka"]
+ampleksa
+ĉiuflanka

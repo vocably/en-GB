@@ -1,1 +1,2 @@
-["hanghang","ka nako"]
+hanghang
+ka nako

@@ -1,1 +1,2 @@
-["hasa","hasa sana"]
+hasa
+hasa sana

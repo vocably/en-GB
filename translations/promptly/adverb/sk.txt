@@ -1,1 +1,2 @@
-["okamžite","presne"]
+okamžite
+presne

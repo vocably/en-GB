@@ -1,1 +1,3 @@
-["zvážit","považovat","vzít v úvahu"]
+zvážit
+považovat
+vzít v úvahu

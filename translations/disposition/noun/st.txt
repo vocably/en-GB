@@ -1,1 +1,4 @@
-["boitšisinyo","moea","tloaelo","tokisetso"]
+boitšisinyo
+moea
+tloaelo
+tokisetso

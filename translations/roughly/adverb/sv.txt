@@ -1,1 +1,3 @@
-["grovt","ungefär","i stora drag"]
+grovt
+ungefär
+i stora drag

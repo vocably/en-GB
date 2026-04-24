@@ -1,1 +1,3 @@
-["zanemariti","opustiti","ne upoštevati"]
+zanemariti
+opustiti
+ne upoštevati

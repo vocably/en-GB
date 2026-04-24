@@ -1,1 +1,2 @@
-["kem-kem","aýgyr-aýgyr"]
+kem-kem
+aýgyr-aýgyr

@@ -1,1 +1,2 @@
-["pravigi","ĝustigi"]
+pravigi
+ĝustigi

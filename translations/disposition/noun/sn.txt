@@ -1,1 +1,4 @@
-["hunhu","mugariro","kurongeka","masimba"]
+hunhu
+mugariro
+kurongeka
+masimba

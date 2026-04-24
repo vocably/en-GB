@@ -1,1 +1,3 @@
-["descuidar","no hacer","ignorar"]
+descuidar
+no hacer
+ignorar

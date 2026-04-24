@@ -1,1 +1,3 @@
-["odmah","to\nčno"]
+odmah
+to
+čno

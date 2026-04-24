@@ -1,1 +1,2 @@
-["maingat","mapag-ingat"]
+maingat
+mapag-ingat

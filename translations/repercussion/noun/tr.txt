@@ -1,1 +1,2 @@
-["yankı","akıbet"]
+yankı
+akıbet

@@ -1,1 +1,4 @@
-["aard","karakter","aanleg","plaatsing"]
+aard
+karakter
+aanleg
+plaatsing

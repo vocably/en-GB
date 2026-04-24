@@ -1,1 +1,3 @@
-["mengakui","membenarkan","membalas"]
+mengakui
+membenarkan
+membalas

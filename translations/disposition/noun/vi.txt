@@ -1,1 +1,4 @@
-["tính khí","khuynh hướng","sự sắp xếp","sự bố trí"]
+tính khí
+khuynh hướng
+sự sắp xếp
+sự bố trí

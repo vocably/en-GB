@@ -1,1 +1,2 @@
-["ongafuniyo","othandanayo"]
+ongafuniyo
+othandanayo

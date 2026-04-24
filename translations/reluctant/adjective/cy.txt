@@ -1,1 +1,2 @@
-["amharus","gwrthwynebus"]
+amharus
+gwrthwynebus

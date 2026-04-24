@@ -1,1 +1,4 @@
-["nuotaika","būdas","išdėstymas","dislokavimas"]
+nuotaika
+būdas
+išdėstymas
+dislokavimas

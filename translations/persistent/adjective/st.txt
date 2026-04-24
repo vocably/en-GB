@@ -1,1 +1,2 @@
-["sa feleng","tiisetsang"]
+sa feleng
+tiisetsang

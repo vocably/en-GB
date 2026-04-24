@@ -1,1 +1,2 @@
-["berehala","puntuan"]
+berehala
+puntuan

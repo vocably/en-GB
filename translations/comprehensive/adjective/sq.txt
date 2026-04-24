@@ -1,1 +1,2 @@
-["gjithëpërfshirës","i thellë"]
+gjithëpërfshirës
+i thellë

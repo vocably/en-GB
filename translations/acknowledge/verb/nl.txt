@@ -1,1 +1,3 @@
-["erkennen","bevestigen","begroeten"]
+erkennen
+bevestigen
+begroeten

@@ -1,1 +1,2 @@
-["cynhwysfawr","gyflawn"]
+cynhwysfawr
+gyflawn

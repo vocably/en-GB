@@ -1,1 +1,2 @@
-["yose","ihariye"]
+yose
+ihariye

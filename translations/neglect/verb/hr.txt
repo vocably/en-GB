@@ -1,1 +1,3 @@
-["zanemariti","propustiti","ne obazirati se"]
+zanemariti
+propustiti
+ne obazirati se

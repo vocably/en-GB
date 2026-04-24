@@ -1,1 +1,2 @@
-["alagidi","ainidii"]
+alagidi
+ainidii

@@ -1,1 +1,2 @@
-["yn ymhlyg","yn ddiymwad"]
+yn ymhlyg
+yn ddiymwad

@@ -1,1 +1,2 @@
-["ongern","widderwëlleg"]
+ongern
+widderwëlleg

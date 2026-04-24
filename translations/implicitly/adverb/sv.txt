@@ -1,1 +1,2 @@
-["underförstått","självklart"]
+underförstått
+självklart

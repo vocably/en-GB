@@ -1,1 +1,2 @@
-["menjëherë","saktësisht"]
+menjëherë
+saktësisht

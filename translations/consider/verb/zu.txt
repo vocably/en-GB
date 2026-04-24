@@ -1,1 +1,3 @@
-["cabanga","naka","qaphela"]
+cabanga
+naka
+qaphela

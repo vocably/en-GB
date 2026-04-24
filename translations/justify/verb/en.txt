@@ -1,1 +1,2 @@
-["justify","align"]
+justify
+align

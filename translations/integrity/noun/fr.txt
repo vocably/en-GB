@@ -1,1 +1,3 @@
-["intégrité","unité","solidité"]
+intégrité
+unité
+solidité

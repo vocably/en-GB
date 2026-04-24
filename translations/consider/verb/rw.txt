@@ -1,1 +1,3 @@
-["gutekereza","kwibwira","kuzirikana"]
+gutekereza
+kwibwira
+kuzirikana

@@ -1,1 +1,2 @@
-["dengan cukup","secukupnya"]
+dengan cukup
+secukupnya

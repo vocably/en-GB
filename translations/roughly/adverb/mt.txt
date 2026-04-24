@@ -1,1 +1,3 @@
-["beffiegħi","approssimattivament","fil-qosor"]
+beffiegħi
+approssimattivament
+fil-qosor

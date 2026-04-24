@@ -1,1 +1,2 @@
-["persistant","continu"]
+persistant
+continu

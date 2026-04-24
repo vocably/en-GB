@@ -1,1 +1,4 @@
-["dispozícia","povaha","sklon","rozmiestnenie"]
+dispozícia
+povaha
+sklon
+rozmiestnenie

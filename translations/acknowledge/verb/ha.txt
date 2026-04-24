@@ -1,1 +1,3 @@
-["yarda","amsa","gaisu"]
+yarda
+amsa
+gaisu

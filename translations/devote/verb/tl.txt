@@ -1,1 +1,2 @@
-["ialay","ilaan"]
+ialay
+ilaan

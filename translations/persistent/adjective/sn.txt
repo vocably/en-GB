@@ -1,1 +1,2 @@
-["anetsa","ramba"]
+anetsa
+ramba

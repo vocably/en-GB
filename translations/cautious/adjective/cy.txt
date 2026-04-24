@@ -1,1 +1,2 @@
-["rhybuddiog","gofalus"]
+rhybuddiog
+gofalus

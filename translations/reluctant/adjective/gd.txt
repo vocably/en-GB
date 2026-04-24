@@ -1,1 +1,2 @@
-["neo-dheònach","droch-dheònach"]
+neo-dheònach
+droch-dheònach

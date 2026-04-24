@@ -1,1 +1,2 @@
-["bil-mod il-mod","ftit ftit"]
+bil-mod il-mod
+ftit ftit

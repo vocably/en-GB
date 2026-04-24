@@ -1,1 +1,2 @@
-["wolimbikira","wosalekeza"]
+wolimbikira
+wosalekeza

@@ -1,1 +1,3 @@
-["etiraf etmək","qəbul etmək","təsdiqləmək"]
+etiraf etmək
+qəbul etmək
+təsdiqləmək

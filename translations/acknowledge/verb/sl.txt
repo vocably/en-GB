@@ -1,1 +1,3 @@
-["priznati","potrditi","pozdraviti"]
+priznati
+potrditi
+pozdraviti

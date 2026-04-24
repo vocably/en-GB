@@ -1,1 +1,2 @@
-["ngolo","bujuk"]
+ngolo
+bujuk

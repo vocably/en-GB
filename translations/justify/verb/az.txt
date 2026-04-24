@@ -1,1 +1,3 @@
-["haq qazandırmaq","əsaslandırmaq","səhifəni düzləndirmək"]
+haq qazandırmaq
+əsaslandırmaq
+səhifəni düzləndirmək

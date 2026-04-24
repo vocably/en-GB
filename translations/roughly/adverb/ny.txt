@@ -1,1 +1,3 @@
-["mwamwano","pafupifupi","mosamalitsa"]
+mwamwano
+pafupifupi
+mosamalitsa

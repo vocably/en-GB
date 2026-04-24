@@ -1,1 +1,2 @@
-["Isiphumo","Umphumo"]
+Isiphumo
+Umphumo

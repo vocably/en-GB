@@ -1,1 +1,2 @@
-["jiddedika","konsagra"]
+jiddedika
+konsagra

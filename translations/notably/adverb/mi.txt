@@ -1,1 +1,2 @@
-["kia tino","kia kitea"]
+kia tino
+kia kitea
