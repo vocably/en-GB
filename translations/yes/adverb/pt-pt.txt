@@ -1,0 +1,4 @@
+sim
+pois
+claro
+certamente

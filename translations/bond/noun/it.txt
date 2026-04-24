@@ -1,0 +1,4 @@
+legame
+vincolo
+obbligazione
+fianco

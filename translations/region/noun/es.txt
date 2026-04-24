@@ -1,0 +1,5 @@
+región
+zona
+comarca
+área
+departamento

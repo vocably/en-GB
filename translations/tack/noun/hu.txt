@@ -1,0 +1,4 @@
+szög
+irány
+felszerelés
+megközelítés

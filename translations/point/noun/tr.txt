@@ -1,0 +1,5 @@
+nokta
+uç
+madde
+puan
+husus

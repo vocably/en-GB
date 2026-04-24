@@ -1,0 +1,4 @@
+die Rate
+der Satz
+die Geschwindigkeit
+der Tarif

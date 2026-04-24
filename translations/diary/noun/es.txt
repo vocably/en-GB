@@ -1,0 +1,3 @@
+diario
+agenda
+cuaderno de notas

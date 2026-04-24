@@ -1,0 +1,4 @@
+pendenza
+gradiente
+inclinazione
+declivio

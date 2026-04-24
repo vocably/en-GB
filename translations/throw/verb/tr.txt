@@ -1,0 +1,5 @@
+atmak
+fırlatmak
+düşürmek
+düzenlemek
+kaybetmek

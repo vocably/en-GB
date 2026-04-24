@@ -1,0 +1,3 @@
+die Fracht
+das Frachtgut
+die Frachtkosten

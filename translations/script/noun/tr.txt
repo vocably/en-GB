@@ -1,0 +1,4 @@
+senaryo
+yazı
+betik
+komut dosyası

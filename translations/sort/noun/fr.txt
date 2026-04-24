@@ -1,0 +1,3 @@
+sorte
+genre
+tri

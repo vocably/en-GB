@@ -1,0 +1,4 @@
+aviso
+noticia
+observación
+advertencia

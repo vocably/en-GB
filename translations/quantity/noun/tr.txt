@@ -1,0 +1,4 @@
+miktar
+nicelik
+kemiyet
+çokluk

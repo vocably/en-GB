@@ -1,0 +1,4 @@
+rakamlar
+sayılar
+şekiller
+figürler

@@ -1,0 +1,3 @@
+acquaintance
+contact
+friend

@@ -1,0 +1,3 @@
+Mieter
+Pächter
+Bewohner

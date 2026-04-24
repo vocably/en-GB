@@ -1,0 +1,4 @@
+restaurar
+devolver
+restablecer
+restituir

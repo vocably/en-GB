@@ -1,0 +1,3 @@
+talla
+escultura
+trinchado

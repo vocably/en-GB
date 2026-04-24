@@ -1,0 +1,4 @@
+manejador
+entrenador
+encargado
+controlador

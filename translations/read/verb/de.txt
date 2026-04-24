@@ -1,0 +1,5 @@
+lesen
+vorlesen
+deuten
+studieren
+anzeigen

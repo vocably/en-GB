@@ -1,0 +1,4 @@
+espray
+aerosol
+pulverizador
+rocío

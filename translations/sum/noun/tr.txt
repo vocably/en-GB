@@ -1,0 +1,4 @@
+toplam
+miktar
+meblağ
+hesap

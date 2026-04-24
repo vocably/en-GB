@@ -1,0 +1,3 @@
+salpicadero
+tablero de mandos
+panel de control

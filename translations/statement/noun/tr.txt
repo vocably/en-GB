@@ -1,0 +1,3 @@
+ifade
+açıklama
+beyanname

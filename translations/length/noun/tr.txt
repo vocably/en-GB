@@ -1,0 +1,4 @@
+uzunluk
+süre
+parça
+boy

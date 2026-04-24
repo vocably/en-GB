@@ -1,0 +1,4 @@
+bot
+bagaj
+tekme
+kovulma

@@ -1,0 +1,4 @@
+paseo
+marcha
+andadura
+paso

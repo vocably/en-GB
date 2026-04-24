@@ -1,0 +1,3 @@
+facultativo
+opcional
+discrecional

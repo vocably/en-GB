@@ -1,0 +1,4 @@
+enfermo
+mareado
+asombroso
+morboso

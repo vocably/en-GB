@@ -1,0 +1,5 @@
+amo
+patrón
+maestro
+dueño
+licenciado

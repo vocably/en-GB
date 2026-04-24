@@ -1,0 +1,4 @@
+zahlen
+bezahlen
+begleichen
+entrichten

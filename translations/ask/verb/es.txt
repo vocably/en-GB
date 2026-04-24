@@ -1,0 +1,5 @@
+preguntar
+pedir
+invitar
+solicitar
+esperar

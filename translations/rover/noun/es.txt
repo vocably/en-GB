@@ -1,0 +1,4 @@
+vagabundo
+explorador
+pirata
+rover

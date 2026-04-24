@@ -1,0 +1,3 @@
+die Schüssel
+die Schale
+die Kugel

@@ -1,0 +1,4 @@
+limpiar
+secar
+borrar
+fregar

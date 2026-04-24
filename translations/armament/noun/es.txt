@@ -1,0 +1,3 @@
+armamento
+equipamiento
+fuerzas armadas
