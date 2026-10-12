@@ -1,0 +1,4 @@
+hatırlamak
+geri çağırmak
+anımsamak
+iptal etmek

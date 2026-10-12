@@ -1,0 +1,3 @@
+giro
+cambio
+tiempo de respuesta

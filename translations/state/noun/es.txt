@@ -1,0 +1,4 @@
+estado
+nación
+país
+gobierno

@@ -1,0 +1,3 @@
+strumento
+attrezzo
+utensile

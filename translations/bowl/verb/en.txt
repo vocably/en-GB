@@ -1,0 +1,4 @@
+roll
+throw
+hurl
+pitch

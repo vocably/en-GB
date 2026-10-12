@@ -1,0 +1,2 @@
+tra cứu nslookup
+dùng nslookup để tra cứu

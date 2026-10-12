@@ -1,0 +1,3 @@
+servírovat
+vyklenout
+pomlouvat

@@ -1,0 +1,5 @@
+número
+cifra
+cantidad
+ejemplar
+número musical

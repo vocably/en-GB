@@ -1,0 +1,4 @@
+pokrm
+jídlo
+mísa
+talíř

@@ -1,0 +1,4 @@
+avis
+opinion
+sentiment
+jugement

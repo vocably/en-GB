@@ -1,0 +1,5 @@
+common
+joint
+ordinary
+public
+rude

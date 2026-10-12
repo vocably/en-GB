@@ -1,0 +1,5 @@
+tiempo
+hora
+vez
+época
+período

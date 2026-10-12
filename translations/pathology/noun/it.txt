@@ -1,0 +1,3 @@
+patologia
+malattia
+disturbo

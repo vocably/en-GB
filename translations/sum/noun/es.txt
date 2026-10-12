@@ -1,0 +1,4 @@
+suma
+importe
+cantidad
+cálculo

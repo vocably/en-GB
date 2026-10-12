@@ -1,0 +1,4 @@
+připojuje
+zvedá
+stopuje
+narazí

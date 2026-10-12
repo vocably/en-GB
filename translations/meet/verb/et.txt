@@ -1,0 +1,4 @@
+kohtuma
+vastama
+täitma
+saama

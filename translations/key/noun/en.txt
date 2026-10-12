@@ -1,0 +1,6 @@
+key
+solution
+explanation
+button
+lever
+switch

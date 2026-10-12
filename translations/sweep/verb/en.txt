@@ -1,0 +1,4 @@
+sweep
+clean
+search
+win

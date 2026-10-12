@@ -1,0 +1,3 @@
+uvest
+povolat
+zasvetit

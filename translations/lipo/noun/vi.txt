@@ -1,0 +1,2 @@
+pin LiPo
+pin lithi-polyme

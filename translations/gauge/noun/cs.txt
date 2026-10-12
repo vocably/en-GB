@@ -1,0 +1,5 @@
+měřidlo
+rozchod
+tloušťka
+kalibr
+měrka

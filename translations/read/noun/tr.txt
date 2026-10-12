@@ -1,0 +1,4 @@
+okuma
+yorum
+kitap
+okunacak şey

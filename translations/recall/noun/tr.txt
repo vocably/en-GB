@@ -1,0 +1,4 @@
+hatırlama
+geri çağırma
+anımsama
+geri isteme

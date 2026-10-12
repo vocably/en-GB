@@ -1,0 +1,4 @@
+tersine çevirmek
+geri gitmek
+geri sürmek
+iptal etmek

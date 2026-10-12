@@ -1,0 +1,5 @@
+forma
+formulario
+clase
+estado
+condición

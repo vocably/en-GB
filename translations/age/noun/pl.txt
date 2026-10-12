@@ -1,0 +1,4 @@
+wiek
+epoka
+okres
+starość

@@ -1,0 +1,3 @@
+requerir
+necesitar
+exigir

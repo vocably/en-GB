@@ -1,0 +1,2 @@
+arayüz oluşturmak
+bağlantı kurmak

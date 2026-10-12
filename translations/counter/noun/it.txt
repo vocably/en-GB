@@ -1,0 +1,4 @@
+bancone
+contatore
+sportello
+pedina

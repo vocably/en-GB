@@ -1,0 +1,3 @@
+accediendo
+obteniendo
+consultando

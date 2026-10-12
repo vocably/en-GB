@@ -1,0 +1,3 @@
+die Spannung
+die Anspannung
+die Hochspannung

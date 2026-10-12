@@ -1,0 +1,4 @@
+quitar
+llevar
+restar
+suprimir

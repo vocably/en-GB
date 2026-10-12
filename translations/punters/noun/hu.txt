@@ -1,0 +1,3 @@
+fogadók
+ügyfelek
+vendégek

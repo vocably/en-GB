@@ -1,0 +1,4 @@
+cuenta
+relato
+informe
+razón

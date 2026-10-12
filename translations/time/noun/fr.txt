@@ -1,0 +1,5 @@
+temps
+heure
+fois
+délai
+époque

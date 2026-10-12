@@ -1,0 +1,4 @@
+cámara
+sala
+dormitorio
+cavidad

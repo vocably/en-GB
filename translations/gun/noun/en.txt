@@ -1,0 +1,5 @@
+gun
+pistol
+firearm
+revolver
+weapon

@@ -1,0 +1,4 @@
+dům
+budova
+sídlo
+sněmovna

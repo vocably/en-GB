@@ -1,0 +1,5 @@
+klasë
+kurs
+shtresë
+kategori
+lloj

@@ -1,0 +1,5 @@
+směna
+posun
+přesun
+změna
+přeřazení

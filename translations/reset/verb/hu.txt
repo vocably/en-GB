@@ -1,0 +1,3 @@
+visszaállít
+újraindít
+helyreigazít

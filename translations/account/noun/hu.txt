@@ -1,0 +1,4 @@
+számla
+beszámoló
+elbeszélés
+fontosság

@@ -1,0 +1,5 @@
+homme
+mari
+mâle
+pion
+joueur

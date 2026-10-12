@@ -1,0 +1,4 @@
+mluvit
+promluvit
+hovořit
+prohovořit

@@ -1,0 +1,6 @@
+kulcs
+billentyű
+hangnem
+zárszerkezet
+megoldás
+ék

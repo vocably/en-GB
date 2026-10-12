@@ -1,0 +1,4 @@
+sakyti
+pasakyti
+pranešti
+atskirti

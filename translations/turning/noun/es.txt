@@ -1,0 +1,4 @@
+giro
+curva
+torneado
+viruta

@@ -1,0 +1,5 @@
+jour
+journée
+date
+époque
+lumière du jour

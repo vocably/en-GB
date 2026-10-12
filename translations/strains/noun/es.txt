@@ -1,0 +1,4 @@
+tensiones
+esfuerzos
+cepas
+melodías

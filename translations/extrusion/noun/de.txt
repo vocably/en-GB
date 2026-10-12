@@ -1,0 +1,3 @@
+die Extrusion
+das Strangpressen
+das Extrudat

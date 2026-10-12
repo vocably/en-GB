@@ -1,0 +1,4 @@
+indicadores
+intermitentes
+indicadores de giro
+señales

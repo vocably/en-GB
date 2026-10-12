@@ -1,0 +1,5 @@
+skaityti
+perskaityti
+išskaityti
+suprasti
+iššifruoti

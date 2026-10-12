@@ -1,0 +1,4 @@
+sloupek
+pošta
+místo
+příspěvek

@@ -1,0 +1,4 @@
+dizin
+endeks
+gösterge
+işaret

@@ -1,0 +1,3 @@
+medicar
+administrar medicamentos a
+tratar con medicamentos

@@ -1,0 +1,5 @@
+lớp
+hạng
+loại
+tầng lớp
+lớp học

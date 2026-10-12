@@ -1,0 +1,4 @@
+firma
+towarzystwo
+spółka
+kompania

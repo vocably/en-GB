@@ -1,0 +1,4 @@
+principal
+head
+lead
+star

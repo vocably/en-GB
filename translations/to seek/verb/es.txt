@@ -1,0 +1,4 @@
+buscar
+pedir
+procurar
+intentar

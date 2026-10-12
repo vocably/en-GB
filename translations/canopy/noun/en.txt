@@ -1,0 +1,4 @@
+canopy
+awning
+treetop
+hood

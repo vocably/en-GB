@@ -1,0 +1,4 @@
+die
+dice
+mold
+stamp

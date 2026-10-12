@@ -1,0 +1,4 @@
+space
+outer space
+room
+interval

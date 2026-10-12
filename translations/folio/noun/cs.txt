@@ -1,0 +1,4 @@
+folio
+list
+strana
+pořadové číslo

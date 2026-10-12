@@ -1,0 +1,5 @@
+affaires
+entreprise
+commerce
+métier
+occupation

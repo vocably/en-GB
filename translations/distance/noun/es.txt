@@ -1,0 +1,5 @@
+distancia
+lejanía
+alejamiento
+intervalo
+recorrido

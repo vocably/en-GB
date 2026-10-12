@@ -1,0 +1,5 @@
+den
+doba
+datum
+svátek
+pracovní den

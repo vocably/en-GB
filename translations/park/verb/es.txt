@@ -1,0 +1,4 @@
+aparcar
+estacionar
+aparcarse
+estacionarse

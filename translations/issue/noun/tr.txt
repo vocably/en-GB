@@ -1,0 +1,4 @@
+konu
+sayı
+mesele
+çıkarma
