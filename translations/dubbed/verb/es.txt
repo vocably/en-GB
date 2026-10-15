@@ -1,0 +1,4 @@
+apodar
+doblar
+grabar
+copiar

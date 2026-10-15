@@ -1,0 +1,5 @@
+hechizo
+racha
+periodo
+vez
+turno

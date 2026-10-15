@@ -1,0 +1,4 @@
+comercio
+oficio
+sector
+profesión

@@ -1,0 +1,6 @@
+bloque
+manzana
+edificio
+polea
+taco
+obstrucción

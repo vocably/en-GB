@@ -1,0 +1,5 @@
+conjunto
+juego
+plató
+decorado
+receptor

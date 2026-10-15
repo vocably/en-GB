@@ -1,0 +1,4 @@
+etap
+scena
+stopień
+faza
