@@ -1,0 +1,5 @@
+redondear
+doblar
+girar
+completar
+aproximar

@@ -1,0 +1,9 @@
+existencias
+valores
+acciones
+caldo
+ganado
+tronco
+culata
+cepa
+almacén

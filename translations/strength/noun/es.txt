@@ -1,0 +1,4 @@
+fuerza
+resistencia
+intensidad
+ventaja

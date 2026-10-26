@@ -1,0 +1,5 @@
+columpio
+balanceo
+swing
+giro
+oscilación

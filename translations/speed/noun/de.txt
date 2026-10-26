@@ -1,0 +1,4 @@
+die Geschwindigkeit
+das Tempo
+der Gang
+das Speed

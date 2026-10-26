@@ -1,0 +1,5 @@
+pista
+vía
+sendero
+carril
+huella

@@ -1,0 +1,4 @@
+huella
+superficie
+impacto
+área de cobertura

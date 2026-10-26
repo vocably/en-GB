@@ -1,0 +1,4 @@
+disparar
+despedir
+encender
+lanzar

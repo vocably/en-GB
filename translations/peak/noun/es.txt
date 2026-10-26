@@ -1,0 +1,5 @@
+pico
+cima
+cumbre
+cresta
+visera

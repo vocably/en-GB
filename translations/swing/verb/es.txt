@@ -1,0 +1,4 @@
+balancear
+columpiar
+girar
+oscilar

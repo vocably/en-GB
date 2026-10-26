@@ -1,0 +1,4 @@
+silnik
+lokomotywa
+maszyna
+silnik wyszukiwania

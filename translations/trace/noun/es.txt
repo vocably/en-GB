@@ -1,0 +1,4 @@
+rastro
+huella
+vestigio
+traza

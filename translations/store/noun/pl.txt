@@ -1,0 +1,4 @@
+sklep
+magazyn
+zapas
+skład
